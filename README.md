@@ -2,7 +2,7 @@
        <h1> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"/>, I'm R0mb0 </h1>
         Someone who tries to survive from blue screens!
         <h2>Who I am</h2>
-         I'm a informatics university student from Italy who loves everything that is related with open-source
+         I'm a informatics university student from Italy who loves everything related to open-source
          <h2>Here's my stats</h2>
          <div allign="center">
      <a href="https://github.com/R0mb0">
