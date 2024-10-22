@@ -37,3 +37,4 @@
 </div>
 
 ---
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/be0af5b0b0e14f849502bbe9c7f0383e)](https://app.codacy.com/gh/R0mb0/R0mb0/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
