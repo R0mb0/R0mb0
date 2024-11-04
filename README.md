@@ -32,7 +32,7 @@
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r0mb0&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r0mb0&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r0mb0&theme=github_dark&utcOffset=1)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0mb0&theme=github_dark)
 
 </div>
