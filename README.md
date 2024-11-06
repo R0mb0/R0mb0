@@ -46,11 +46,24 @@
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
 </div>
 
----
+## Here's other stuff
 
 <div align="center">
  
 ![](https://komarev.com/ghpvc/?username=r0mb0&style=for-the-badge)
+
+</div>
+
+### Operating systems that I use
+
+<div align="center">
+
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+### My skills
 
 </div>
 
