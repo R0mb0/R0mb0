@@ -8,7 +8,7 @@
      <a href="https://github.com/R0mb0">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&theme=onedark&layout=compact&hide=jupyter%20notebook&card_width=230em" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mb0&theme=blue-green)" align="right"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mb0&theme=blue-green)"/>
     </a>
 </div>
 
