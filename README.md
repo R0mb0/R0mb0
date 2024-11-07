@@ -58,9 +58,7 @@
 ## Here's some jokes
 
 <div align="center">
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<img height="100%" width="100%" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
 </div>
 
 ## Here's other stuff
