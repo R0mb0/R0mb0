@@ -64,7 +64,8 @@
 ## Here's other stuff
 
 <div align="center">
- 
+
+[![Visits](https://badges.pufler.dev/visits/r0mb0/r0mb0?color=black&logo=github&style=for-the-badge)](https://github.com/r0mb0)
 ![](https://komarev.com/ghpvc/?username=r0mb0&style=for-the-badge)
 
 </div>
