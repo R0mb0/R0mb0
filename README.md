@@ -54,6 +54,12 @@
 <div align="center">
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
 </div>
+ 
+## Here's my followers 
+
+<div align="center">
+<img src="https://github.com/r0mb0/things-for-your-github-profile/blob/main/img/followers.png?raw=true"  height="180" />
+</div>
 
 ## Here's some jokes
 
