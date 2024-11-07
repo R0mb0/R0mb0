@@ -8,6 +8,7 @@
      <a href="https://github.com/R0mb0">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&theme=onedark&layout=compact&hide=jupyter%20notebook&card_width=230em" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mb0&theme=blue-green)" align="right"/>
     </a>
 </div>
 
@@ -31,6 +32,14 @@
 
 <div align="center">
 
+[![R0mb0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r0mb0&theme=github-dark)](https://github.com/r0mb0/github-readme-activity-graph)  
+
+</div>
+
+---
+
+<div align="center">
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r0mb0&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=r0mb0&theme=github_dark&utcOffset=1)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0mb0&theme=github_dark)
@@ -44,6 +53,14 @@
 </div>
 <div align="center">
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
+</div>
+
+## Here's some jokes
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 </div>
 
 ## Here's other stuff
