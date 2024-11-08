@@ -59,6 +59,79 @@
 
 <!--ACTION_START_FLAG:github-followers-->
 <table>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/josephbkt">
+            <img src="https://avatars2.githubusercontent.com/u/17255445" width="100px;" alt="josephbkt"/>
+        </a>
+        <br />
+        <a href="https://github.com/josephbkt">Josephbkt</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/desabuh">
+            <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
+        </a>
+        <br />
+        <a href="https://github.com/desabuh">Stefano Guidi</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/supmar23">
+            <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
+        </a>
+        <br />
+        <a href="https://github.com/supmar23">Mario Ciccioni</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/K-Yros6">
+            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
+        </a>
+        <br />
+        <a href="https://github.com/K-Yros6">Luca</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tommyw3b98">
+            <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
+        </a>
+        <br />
+        <a href="https://github.com/tommyw3b98">tommyw3b98</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/LucaCava99">
+            <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
+        </a>
+        <br />
+        <a href="https://github.com/LucaCava99">LucaCava99</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Francesco-Rossi">
+            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
+        </a>
+        <br />
+        <a href="https://github.com/Francesco-Rossi">Francesco-Rossi</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/r0s4dip3sar0">
+            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
+        </a>
+        <br />
+        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
+        </a>
+        <br />
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Raixander">
+            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
+        </a>
+        <br />
+        <a href="https://github.com/Raixander">Raixander</a>
+    </td>
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
