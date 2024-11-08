@@ -57,9 +57,8 @@
  
 ## Here's my followers 
 
-<div align="center">
-<img src="https://github.com/r0mb0/things-for-your-github-profile/blob/main/img/followers.png?raw=true"  height="180" />
-</div>
+<!--ACTION_START_FLAG:github-followers-->
+<!--ACTION_END_FLAG:github-followers-->
 
 ## Here's some jokes
 
