@@ -54,8 +54,19 @@
 <div align="center">
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
 </div>
- 
-## Here's my followers 
+
+## Here's some jokes
+
+<div align="center">
+<img height="100%" width="100%" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div> 
+
+<details>
+  <summary> 
+   
+   ## Here's my followers
+   
+   </summary>
 
 <!--ACTION_START_FLAG:github-followers-->
 <table>
@@ -135,14 +146,14 @@
   </tr>
 </table>
 <!--ACTION_END_FLAG:github-followers-->
+</details>
 
-## Here's some jokes
+<details>
+  <summary> 
 
-<div align="center">
-<img height="100%" width="100%" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div>
-
-## Here's other stuff
+  ## Here's other stuff
+  
+  </summary>
 
 <div align="center">
 
@@ -255,6 +266,8 @@
 [![Donate](https://img.shields.io/badge/PayPal-Donate%20to%20Author-blue.svg)](http://paypal.me/R0mb0)
 
 </div>
+
+</details>
 
 ---
 
