@@ -4,12 +4,18 @@
         <h2>Who I am</h2>
          I'm an informatics university student from Italy who loves everything related to open-source
          <h2>Here's my stats</h2>
-         <div allign="center">
+<div align="center">
      <a href="https://github.com/R0mb0">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&theme=onedark&layout=compact&hide=jupyter%20notebook&card_width=230em" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r0mb0&theme=blue-green)"/>
     </a>
+</div>
+
+
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&langs_count=14"/>
+  
 </div>
 
 <div align="center">
