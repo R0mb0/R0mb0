@@ -1,34 +1,22 @@
 /*
- * The SCSS variables
- */
+* Mainly scss variables
+*/
 
-/* sidebar */
+/* --- ↓ width and height ---- */
 
-$sidebar-width: 260px !default; /* the basic width */
-$sidebar-width-large: 300px !default; /* screen width: >= 1650px */
-$sb-btn-gap: 0.8rem !default;
-$sb-btn-gap-lg: 1rem !default;
+$tab-height: 3.2rem;
+$tab-cursor-height: 1.6rem;
 
-/* other framework sizes */
+$sidebar-width-small: 210px;
+$sidebar-width-medium: 260px;
+$sidebar-width-large: 350px;
 
-$topbar-height: 3rem !default;
-$search-max-width: 200px !default;
-$footer-height: 5rem !default;
-$footer-height-large: 6rem !default; /* screen width: < 850px */
-$main-content-max-width: 1250px !default;
-$radius-sm: 6px !default;
-$radius-lg: 10px !default;
-$back2top-size: 2.75rem !default;
+$topbar-height: 3rem;
 
-/* syntax highlight */
+$footer-height: 5rem;
 
-$code-font-size: 0.85rem !default;
-$code-header-height: 2.25rem !default;
-$code-dot-size: 0.75rem !default;
-$code-dot-gap: 0.5rem !default;
-$code-icon-width: 1.75rem !default;
+$main-content-max-width: 1150px;
 
-/* fonts */
+$panel-max-width: 300px;
 
-$font-family-base: 'Source Sans Pro', 'Microsoft Yahei', sans-serif !default;
-$font-family-heading: Lato, 'Microsoft Yahei', sans-serif !default;
+$post-extend-min-height: 35rem;

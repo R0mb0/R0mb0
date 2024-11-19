@@ -1,185 +1,95 @@
-/**
- * Post-specific styles
- */
+/*
+  Post-specific style
+*/
 
-%btn-post-nav {
+@mixin btn-sharing-color($light-color, $important: false) {
+  @if $important {
+    color: var(--btn-share-color, $light-color) !important;
+  } @else {
+    color: var(--btn-share-color, $light-color);
+  }
+}
+
+@mixin btn-post-nav {
   width: 50%;
   position: relative;
   border-color: var(--btn-border-color);
 }
 
-@mixin dot($pl: 0.25rem, $pr: 0.25rem) {
-  content: '\2022';
+@mixin dot($pl: 0.2rem, $pr: 0.4rem) {
+  content: "\2022";
+  color: rgba(158, 158, 158, 0.8);
   padding-left: $pl;
   padding-right: $pr;
 }
 
-header {
-  .post-desc {
-    @extend %heading;
-
-    font-size: 1.125rem;
-    line-height: 1.6;
-  }
-
-  .post-meta {
-    span + span::before {
+#post-wrapper .post-meta {
+  > div:nth-child(2) {
+    > span:not(:first-child)::before {
       @include dot;
     }
-
-    em,
-    time {
-      @extend %text-highlight;
-    }
-
-    em {
-      a {
-        color: inherit;
-      }
-    }
   }
 
-  h1 + .post-meta {
-    margin-top: 1.5rem;
+  #pv::after {
+    content: " views";
+  }
+
+  .readtime::after {
+    content: " read";
+  }
+}
+
+.post-content {
+  .preview-img {
+    @include align-center;
+
+    margin-top: 0;
+    margin-bottom: 2.5rem !important;
   }
 }
 
 .post-tail-wrapper {
-  @extend %text-sm;
-
   margin-top: 6rem;
   border-bottom: 1px double var(--main-border-color);
-
-  .license-wrapper {
-    line-height: 1.2rem;
-
-    > a {
-      @extend %text-highlight;
-
-      &:hover {
-        @extend %link-hover;
-      }
-    }
-
-    span:last-child {
-      @extend %text-sm;
-    }
-  } /* .license-wrapper */
-
-  .post-meta a:not(:hover) {
-    @extend %link-underline;
-  }
-
-  .share-wrapper {
-    vertical-align: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-
-    %icon-size {
-      font-size: 1.125rem;
-    }
-
-    .share-icons {
-      display: flex;
-
-      i {
-        color: var(--btn-share-color);
-
-        @extend %icon-size;
-      }
-
-      > * {
-        @extend %icon-size;
-
-        margin-left: 0.5rem;
-
-        &:hover {
-          i {
-            @extend %btn-share-hover;
-          }
-        }
-      }
-
-      button {
-        padding: 0;
-        border: none;
-        line-height: inherit;
-
-        @extend %cursor-pointer;
-      }
-    } /* .share-icons */
-  } /* .share-wrapper */
-}
-
-.share-mastodon {
-  /* See: https://github.com/justinribeiro/share-to-mastodon#properties */
-  --wc-stm-font-family: $font-family-base;
-  --wc-stm-dialog-background-color: var(--card-bg);
-  --wc-stm-form-button-border: 1px solid var(--btn-border-color);
-  --wc-stm-form-submit-background-color: var(--sidebar-btn-bg);
-  --wc-stm-form-cancel-background-color: var(--sidebar-btn-bg);
-  --wc-stm-form-button-background-color-hover: #007bff;
-  --wc-stm-form-button-color-hover: white;
-
-  font-size: 1rem;
+  font-size: 0.85rem;
 }
 
 .post-tags {
   line-height: 2rem;
-
-  .post-tag {
-    &:hover {
-      @extend %link-hover;
-      @extend %tag-hover;
-      @extend %no-bottom-border;
-    }
-  }
 }
 
 .post-navigation {
+  padding-top: 3rem;
+  padding-bottom: 4rem;
+
   .btn {
-    @extend %btn-post-nav;
+    @include btn-post-nav;
 
-    &:not(:hover) {
-      color: var(--link-color);
-    }
-
+    color: var(--link-color);
     &:hover {
-      &:not(.disabled)::before {
-        color: whitesmoke;
-      }
+      background: #2a408e;
+      color: #fff;
+      border-color: #2a408e;
     }
-
     &.disabled {
-      @extend %btn-post-nav;
+      @include btn-post-nav;
 
       pointer-events: auto;
       cursor: not-allowed;
       background: none;
       color: gray;
+      &:hover {
+        border-color: none;
+      }
     }
-
     &.btn-outline-primary.disabled:focus {
       box-shadow: none;
     }
-
     &::before {
       color: var(--text-muted-color);
       font-size: 0.65rem;
       text-transform: uppercase;
-      content: attr(aria-label);
-    }
-
-    &:first-child {
-      border-radius: $radius-lg 0 0 $radius-lg;
-      left: 0.5px;
-    }
-
-    &:last-child {
-      border-radius: 0 $radius-lg $radius-lg 0;
-      right: 0.5px;
+      content: attr(prompt);
     }
   }
 
@@ -189,30 +99,21 @@ header {
     margin-top: 0.3rem;
     white-space: normal;
   }
-} /* .post-navigation */
 
-@media (hover: hover) {
-  .post-navigation {
-    .btn,
-    .btn::before {
-      transition: all 0.35s ease-in-out;
+  a {
+    &:first-child {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      left: 0.5px;
+    }
+    &:last-child {
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+      right: 0.5px;
     }
   }
-}
 
-@-webkit-keyframes fade-up {
-  from {
-    opacity: 0;
-    position: relative;
-    top: 2rem;
-  }
-
-  to {
-    opacity: 1;
-    position: relative;
-    top: 0;
-  }
-}
+} // .post-navigation
 
 @keyframes fade-up {
   from {
@@ -220,7 +121,6 @@ header {
     position: relative;
     top: 2rem;
   }
-
   to {
     opacity: 1;
     position: relative;
@@ -228,269 +128,25 @@ header {
   }
 }
 
-/* TOC panel */
 #toc-wrapper {
   border-left: 1px solid rgba(158, 158, 158, 0.17);
   position: -webkit-sticky;
   position: sticky;
   top: 4rem;
   transition: top 0.2s ease-in-out;
-  -webkit-animation: fade-up 0.8s;
   animation: fade-up 0.8s;
-
-  ul {
-    list-style: none;
-    font-size: 0.85rem;
-    line-height: 1.25;
-    padding-left: 0;
-
-    li {
-      &:not(:last-child) {
-        margin: 0.4rem 0;
-      }
-
-      a {
-        padding: 0.2rem 0 0.2rem 1.25rem;
-      }
-    }
-
-    /* Overwrite TOC plugin style */
-
-    .toc-link {
-      display: block;
-
-      @extend %text-ellipsis;
-
-      &:hover {
-        color: var(--toc-highlight);
-        text-decoration: none;
-      }
-
-      &::before {
-        display: none;
-      }
-    }
-
-    .is-active-link {
-      color: var(--toc-highlight) !important;
-      font-weight: 600;
-
-      &::before {
-        display: inline-block;
-        width: 1px;
-        left: -1px;
-        height: 1.25rem;
-        background-color: var(--toc-highlight) !important;
-      }
-    }
-
-    ul {
-      padding-left: 0.75rem;
-    }
+  &.topbar-down {
+    top: 6rem;
+  }
+  > span {
+    @include panel-label;
   }
 }
 
-/* --- TOC button, bar and popup in mobile/tablet --- */
-
-#toc-bar {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  margin: 0 -1rem;
-  height: $topbar-height;
-  background: var(--main-bg);
-  border-bottom: 1px solid var(--main-border-color);
-  transition: all 0.2s ease-in-out;
-
-  @extend %btn-color;
-
-  .label {
-    @extend %heading;
-
-    margin-left: 0.25rem;
-    padding: 0 0.75rem;
-    color: inherit;
-  }
-
-  &.invisible {
-    top: -$topbar-height;
-    transition: none;
-  }
-}
-
-#toc-solo-trigger {
-  color: var(--text-muted-color);
-  border-color: var(--btn-border-color);
-  border-radius: $radius-lg;
-
-  .label {
-    font-size: 1rem;
-    font-family: $font-family-heading;
-  }
-
-  &:hover {
-    box-shadow: none;
-    background: none;
-  }
-}
-
-@mixin slide-in {
-  from {
-    opacity: 0.7;
-    transform: translateY(-$topbar-height);
-  }
-
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@mixin slide-out {
-  0% {
-    transform: translateY(0);
-    opacity: 1;
-  }
-
-  100% {
-    transform: translateY(-$topbar-height);
-    opacity: 0;
-  }
-}
-
-@-webkit-keyframes slide-in {
-  @include slide-in;
-}
-
-@keyframes slide-in {
-  @include slide-in;
-}
-
-@-webkit-keyframes slide-out {
-  @include slide-out;
-}
-
-@keyframes slide-out {
-  @include slide-out;
-}
-
-#toc-popup {
-  $slide-in: slide-in 0.3s ease-out;
-  $slide-out: slide-out 0.3s ease-out;
-  $curtain-height: 2rem;
-  $backdrop: blur(5px);
-
-  border-color: var(--toc-popup-border-color);
-  border-width: 1px;
-  border-radius: $radius-lg;
-  color: var(--text-color);
-  background: var(--card-bg);
-  margin-top: $topbar-height;
-  min-width: 20rem;
-  font-size: 1.05rem;
-
-  @media all and (min-width: 576px) {
-    max-width: 32rem;
-  }
-
-  &[open] {
-    -webkit-animation: $slide-in;
-    animation: $slide-in;
-  }
-
-  &[closing] {
-    -webkit-animation: $slide-out;
-    animation: $slide-out;
-  }
-
-  @media all and (min-width: 850px) {
-    left: $sidebar-width;
-  }
-
-  .header {
-    @extend %btn-color;
-
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    background-color: inherit;
-    border-bottom: 1px solid var(--main-border-color);
-
-    .label {
-      font-family: $font-family-heading;
-    }
-  }
-
-  button {
-    > i {
-      font-size: 1.25rem;
-      vertical-align: middle;
-    }
-
-    &:focus-visible {
-      box-shadow: none;
-    }
-  }
-
-  ul {
-    list-style-type: none;
-    padding-left: 0;
-
-    li {
-      ul,
-      & + li {
-        margin-top: 0.25rem;
-      }
-
-      a {
-        display: flex;
-        line-height: 1.5;
-        padding: 0.375rem 0;
-        padding-right: 1.125rem;
-
-        &.toc-link::before {
-          display: none;
-        }
-      }
-    }
-  }
-
-  @for $i from 2 through 4 {
-    .node-name--H#{$i} {
-      padding-left: 1.125rem * ($i - 1);
-    }
-  }
-
-  .is-active-link {
-    color: var(--toc-highlight) !important;
-    font-weight: 600;
-  }
-
-  &::-webkit-backdrop {
-    -webkit-backdrop-filter: $backdrop;
-    backdrop-filter: $backdrop;
-  }
-
-  &::backdrop {
-    -webkit-backdrop-filter: $backdrop;
-    backdrop-filter: $backdrop;
-  }
-
-  &::after {
-    display: flex;
-    content: '';
-    position: relative;
-    background: linear-gradient(transparent, var(--card-bg) 70%);
-    height: $curtain-height;
-  }
-
-  #toc-popup-content {
-    overflow: auto;
-    max-height: calc(100vh - 4 * $topbar-height);
-    font-family: $font-family-heading;
-    margin-bottom: -$curtain-height;
-  }
+#toc li > a {
+  line-height: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 /* --- Related Posts --- */
@@ -499,87 +155,196 @@ header {
   > h3 {
     @include label(1.1rem, 600);
   }
+  .card {
+    border-color: var(--card-border-color);
+    background-color: var(--card-bg);
+    box-shadow: 0 0 5px 0 var(--card-box-shadow);
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    h3 {
+      color: var(--text-color);
+    }
+    &:hover {
+      -webkit-transform: translate3d(0, -3px, 0);
+      transform: translate3d(0, -3px, 0);
+      box-shadow: 0 10px 15px -4px rgba(0, 0, 0, 0.15);
+    }
+  }
 
-  time {
-    @extend %normal-font-style;
-    @extend %text-xs;
-
-    color: var(--text-muted-color);
+  .timeago {
+    color: var(--relate-post-date);
   }
 
   p {
-    @extend %text-ellipsis;
-
     font-size: 0.9rem;
     margin-bottom: 0.5rem;
-    white-space: break-spaces;
+    overflow: hidden;
+    text-overflow: ellipsis;
     display: -webkit-box;
     -webkit-line-clamp: 2;
     -webkit-box-orient: vertical;
   }
 
-  .card {
-    h4 {
-      @extend %text-clip;
+  a:hover {
+    text-decoration: none;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-inline-start: 1.5rem;
+    > li::before {
+      background: #c2c9d4;
+      width: 5px;
+      height: 5px;
+      border-radius: 1px;
+      display: block;
+      content: "";
+      position: relative;
+      top: 1rem;
+      right: 1rem;
     }
   }
 }
 
-/* stylelint-disable-next-line selector-id-pattern */
-#disqus_thread {
-  min-height: 8.5rem;
+#post-extend-wrapper {
+  min-height: 2rem;
+  #disqus_thread {
+    margin-bottom: 2rem;
+  }
 }
 
-.utterances {
-  max-width: 100%;
+.post-tail-bottom a {
+  color: inherit;
 }
 
-%btn-share-hover {
+%btn-share-hovor {
   color: var(--btn-share-hover-color) !important;
 }
+
+.share-wrapper {
+  vertical-align: middle;
+  user-select: none;
+
+  .share-icons {
+    font-size: 1.2rem;
+    a {
+      &:not(:last-child) {
+        margin-right: 0.25rem;
+      }
+      &:hover {
+        text-decoration: none;
+        > i {
+          @extend %btn-share-hovor;
+        }
+      }
+    }
+    > i {
+      padding-top: 0.35rem;
+      &:hover {
+        @extend %btn-share-hovor;
+      }
+    }
+    .fab {
+      &.fa-twitter {
+        @include btn-sharing-color(rgba(29, 161, 242, 1));
+      }
+      &.fa-facebook-square {
+        @include btn-sharing-color(rgb(66, 95, 156));
+      }
+      &.fa-telegram {
+        @include btn-sharing-color(rgb(39, 159, 217));
+      }
+      &.fa-weibo {
+        @include btn-sharing-color(rgb(229, 20, 43));
+      }
+    }
+
+  } // .share-icons
+
+  .fas.fa-link {
+    @include btn-sharing-color(rgb(171, 171, 171));
+  }
+
+} // .share-wrapper
 
 .share-label {
   @include label(inherit, 400, inherit);
 
   &::after {
-    content: ':';
+    content: ":";
   }
 }
 
+.license-wrapper {
+  line-height: 1.2rem;
+  > a {
+    font-weight: 600;
+    &:hover {
+      @extend %link-hover;
+    }
+  }
+
+  span:last-child {
+    font-size: 0.85rem;
+  }
+} // .license-wrapper
+
 @media all and (max-width: 576px) {
   .post-tail-bottom {
+    -ms-flex-wrap: wrap-reverse !important;
     flex-wrap: wrap-reverse !important;
-
-    > div:first-child {
+    >div:first-child {
       width: 100%;
       margin-top: 1rem;
     }
   }
+
+  .post-content > div[class^='language-'] {
+    @include ml-mr(-1.25rem);
+
+    border-radius: 0;
+    &::before { // the lang badge
+      right: 1rem;
+    }
+  }
+
 }
 
 @media all and (max-width: 768px) {
-  .content > p > img {
+  .post-content > p > img {
     max-width: calc(100% + 1rem);
   }
 }
 
-/* Hide SideBar and TOC */
-@media all and (max-width: 849px) {
-  .post-navigation {
-    @include pl-pr(0);
-    @include ml-mr(-0.5rem);
+@media all and (min-width: 768px) {
+  #post-wrapper {
+    .post-meta {
+      >div:not(:first-child)::before {
+        @include dot(0.5rem, 0.2rem);
+      }
+      &.flex-column {
+        -webkit-box-orient: horizontal !important;
+        -webkit-box-direction: normal !important;
+        -ms-flex-direction: row !important;
+        flex-direction: row !important;
+      }
+    }
+  } // .post
+}
+
+@media all and (min-width: 768px) and (max-width: 830px) {
+  .post img {
+    max-width: calc(100% + 2rem);
   }
 }
 
-@media all and (min-width: 1200px) {
-  h2,
-  h3,
-  h4 {
-    scroll-margin-top: 2rem;
-  }
-
-  #toc-bar,
-  #toc-solo-trigger {
-    display: none !important;
+/* Hide SideBar and TOC */
+@media all and (max-width: 830px) {
+  .post-navigation {
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: -.5rem;
+    margin-right: -.5rem;
   }
 }
