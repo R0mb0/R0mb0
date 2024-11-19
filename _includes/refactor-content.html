@@ -118,7 +118,7 @@
       {% endunless %}
 
       <!-- add image placeholder -->
-      {% assign _left = _left | replace: 'src=', 'data-src=' %}
+      {% assign _left = _left | replace: 'src=', 'src=' | replace: ' lqip=', ' data-lqip="true"' %}
 
     {% else %}
       {% assign _class = _class | append: ' ' %}
