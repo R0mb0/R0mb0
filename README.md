@@ -3,7 +3,20 @@
         Someone who tries to survive from blue screens!
         <h2>Who I am</h2>
          I'm an informatics university student from Italy who loves everything related to open-source
-         <h2>Here's my stats</h2>
+
+## Take a smile! 😄
+
+<div align="center">
+<img height="100%" width="100%" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
+</div> 
+
+<details>
+  <summary> 
+
+  ## 👉 Here's my stats
+  
+  </summary>
+    
 <div align="center">
      <a href="https://github.com/R0mb0">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
@@ -61,16 +74,12 @@
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
 </div>
 
-## Here's some jokes
-
-<div align="center">
-<img height="100%" width="100%" src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" />
-</div> 
+</details>
 
 <details>
   <summary> 
 
-  ## Here's My Blog
+  ## 👉 Here's My Blog
   
   </summary>
 
@@ -85,7 +94,7 @@
 <details>
   <summary> 
    
-   ## Here's my followers
+   ## 👉 Here's my followers
    
    </summary>
 
@@ -179,7 +188,7 @@
 <details>
   <summary> 
 
-  ## Here's other stuff
+  ## 👉 Here's other stuff
   
   </summary>
 
