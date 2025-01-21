@@ -132,13 +132,6 @@
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
     <td align="center">
-        <a href="https://github.com/K-Yros6">
-            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
-        </a>
-        <br />
-        <a href="https://github.com/K-Yros6">Luca</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Francesco-Rossi">
             <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
         </a>
@@ -151,6 +144,13 @@
         </a>
         <br />
         <a href="https://github.com/ROMFIR61">ROMFIR61</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/K-Yros6">
+            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
+        </a>
+        <br />
+        <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
