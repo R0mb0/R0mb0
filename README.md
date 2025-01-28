@@ -146,21 +146,12 @@
         <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
     <td align="center">
-        <a href="https://github.com/K-Yros6">
-            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
-        </a>
-        <br />
-        <a href="https://github.com/K-Yros6">Luca</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
         </a>
         <br />
         <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -168,12 +159,21 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
         <br />
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/K-Yros6">
+            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
+        </a>
+        <br />
+        <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
         <a href="https://github.com/AriannaCinciarini">
