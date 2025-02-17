@@ -70,17 +70,8 @@
 <div align="center">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=R0mb0"/>
 </div>
-
 <div align="center">
 <!--	<img src="https://cdn.jsdelivr.net/gh/R0mb0/R0mb0/assets/github-contribution-grid-snake.svg" /> -->
-</div>
-
----
-
-<div align="center">
-  
- ![](https://api.githubtrends.io/user/svg/R0mb0/repos?time_range=one_year&theme=classic)
-  
 </div>
 
 </details>
