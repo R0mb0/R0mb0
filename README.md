@@ -116,13 +116,6 @@
         <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
-        <a href="https://github.com/josephbkt">
-            <img src="https://avatars2.githubusercontent.com/u/17255445" width="100px;" alt="josephbkt"/>
-        </a>
-        <br />
-        <a href="https://github.com/josephbkt">Josephbkt</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
         </a>
@@ -150,8 +143,6 @@
         <br />
         <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
@@ -159,6 +150,8 @@
         <br />
         <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
