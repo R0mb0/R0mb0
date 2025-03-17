@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/ryo-ma/github-profile-r0mb0)
+[![trophy](https://github-profile-trophy.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/R0mb0)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![R0mb0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r0mb0&theme=github-dark)](https://github.com/r0mb0/github-readme-activity-graph)  
+[![R0mb0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r0mb0&theme=github-dark)](https://github.com/R0mb0)  
 
 </div>
 
