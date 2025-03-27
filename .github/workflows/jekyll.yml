@@ -30,6 +30,8 @@ jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
+    env:
+      PATH: "${{ env.HOME }}/.rbenv/bin:${{ env.PATH }}"
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -45,10 +47,10 @@ jobs:
           echo 'eval "$(rbenv init -)"' >> ~/.bashrc
           git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
           echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
-          source ~/.bashrc
       - name: Install Ruby
         run: |
-          source ~/.bashrc
+          export PATH="$HOME/.rbenv/bin:$PATH"
+          eval "$(rbenv init -)"
           rbenv install 3.1.4
           rbenv global 3.1.4
           rbenv rehash
@@ -65,7 +67,8 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
-          source ~/.bashrc
+          export PATH="$HOME/.rbenv/bin:$PATH"
+          eval "$(rbenv init -)"
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
