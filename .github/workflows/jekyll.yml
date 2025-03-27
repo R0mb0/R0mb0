@@ -39,15 +39,15 @@ jobs:
           sudo apt-get install -y git-core curl zlib1g-dev build-essential libssl-dev libreadline-dev libyaml-dev libsqlite3-dev sqlite3 libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common libffi-dev
       - name: Install rbenv and ruby-build
         run: |
-          git clone https://github.com/rbenv/rbenv.git "${{ runner.home }}/.rbenv"
-          cd "${{ runner.home }}/.rbenv" && src/configure && make -C src
-          echo 'export PATH="${{ runner.home }}/.rbenv/bin:$PATH"' >> "${{ runner.home }}/.bashrc"
-          echo 'eval "$(rbenv init -)"' >> "${{ runner.home }}/.bashrc"
-          git clone https://github.com/rbenv/ruby-build.git "${{ runner.home }}/.rbenv/plugins/ruby-build"
-          echo 'export PATH="${{ runner.home }}/.rbenv/plugins/ruby-build/bin:$PATH"' >> "${{ runner.home }}/.bashrc"
+          git clone https://github.com/rbenv/rbenv.git "${HOME}/.rbenv"
+          cd "${HOME}/.rbenv" && src/configure && make -C src
+          echo 'export PATH="${HOME}/.rbenv/bin:$PATH"' >> "${HOME}/.bashrc"
+          echo 'eval "$(rbenv init -)"' >> "${HOME}/.bashrc"
+          git clone https://github.com/rbenv/ruby-build.git "${HOME}/.rbenv/plugins/ruby-build"
+          echo 'export PATH="${HOME}/.rbenv/plugins/ruby-build/bin:$PATH"' >> "${HOME}/.bashrc"
       - name: Install Ruby
         run: |
-          export PATH="${{ runner.home }}/.rbenv/bin:$PATH"
+          export PATH="${HOME}/.rbenv/bin:$PATH"
           eval "$(rbenv init -)"
           rbenv install 3.1.4
           rbenv global 3.1.4
@@ -65,7 +65,7 @@ jobs:
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         run: |
-          export PATH="${{ runner.home }}/.rbenv/bin:$PATH"
+          export PATH="${HOME}/.rbenv/bin:$PATH"
           eval "$(rbenv init -)"
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
