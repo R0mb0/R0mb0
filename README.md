@@ -43,7 +43,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/ryo-ma/github-profile-r0mb0)
+[![trophy](https://github-profile-trophy.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/R0mb0)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-[![R0mb0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r0mb0&theme=github-dark)](https://github.com/r0mb0/github-readme-activity-graph)  
+[![R0mb0's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=r0mb0&theme=github-dark)](https://github.com/R0mb0)  
 
 </div>
 
@@ -102,11 +102,18 @@
 <table>
   <tr>
     <td align="center">
-        <a href="https://github.com/josephbkt">
-            <img src="https://avatars2.githubusercontent.com/u/17255445" width="100px;" alt="josephbkt"/>
+        <a href="https://github.com/trinhminhtriet">
+            <img src="https://avatars2.githubusercontent.com/u/1650997" width="100px;" alt="trinhminhtriet"/>
         </a>
         <br />
-        <a href="https://github.com/josephbkt">Josephbkt</a>
+        <a href="https://github.com/trinhminhtriet">Triet Trinh</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/valentimarco">
+            <img src="https://avatars2.githubusercontent.com/u/26926690" width="100px;" alt="valentimarco"/>
+        </a>
+        <br />
+        <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
         <a href="https://github.com/desabuh">
@@ -143,6 +150,8 @@
         <br />
         <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -150,8 +159,6 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
