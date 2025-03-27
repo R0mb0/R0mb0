@@ -46,11 +46,14 @@ jobs:
           git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
           echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.bashrc
           source ~/.bashrc
+          export PATH="$HOME/.rbenv/bin:$PATH"
+          eval "$(rbenv init -)"
       - name: Install Ruby
         run: |
           rbenv install 3.1.4
           rbenv global 3.1.4
           rbenv rehash
+          ruby -v
       - name: Setup Ruby
         uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
         with:
