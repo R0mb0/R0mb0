@@ -153,6 +153,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/micdini">
+            <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
+        </a>
+        <br />
+        <a href="https://github.com/micdini">Michele Dini</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
         </a>
@@ -174,18 +181,18 @@
         <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AriannaCinciarini">
-            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
-        </a>
-        <br />
-        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Raixander">
             <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
         <br />
         <a href="https://github.com/Raixander">Raixander</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
+        </a>
+        <br />
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
   </tr>
 </table>
