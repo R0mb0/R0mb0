@@ -134,7 +134,7 @@
             <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
         </a>
         <br />
-        <a href="https://github.com/Francesco-Rossi">Francesco-Rossi</a>
+        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
     <td align="center">
         <a href="https://github.com/ROMFIR61">
