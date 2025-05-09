@@ -1,8 +1,10 @@
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG10NDI2cXpmbjJodzMydjYwcXlnZTduZmxteXc0b2U4b3B3NWpnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hv5AEBpH3ZyNoRnABG/giphy.gif" align="right"/>
+ <img height="30%" width="30%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/Github.gif" align="right"/>
        <h1> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"/>, I'm R0mb0 </h1>
-        Someone who tries to survive from blue screens!
+        And yes, I don't use GitHub properly! <br>
+        Why? <br>
+        Because I like to test its limits! 🔥
         <h2>Who I am</h2>
-         I'm an informatics university student from Italy who loves everything related to open-source
+         I'm an informatics university student from Italy who loves everything related to open-source and the cyberpunk culture 😎
 
 ## Take a smile! 😄
 
