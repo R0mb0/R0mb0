@@ -118,6 +118,13 @@
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
     <td align="center">
+        <a href="https://github.com/0d1n92">
+            <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
+        </a>
+        <br />
+        <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
         </a>
@@ -145,6 +152,8 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
@@ -152,8 +161,6 @@
         <br />
         <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/micdini">
             <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
