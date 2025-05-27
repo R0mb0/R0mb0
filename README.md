@@ -169,6 +169,13 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
+        <a href="https://github.com/fabio1373">
+            <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
+        </a>
+        <br />
+        <a href="https://github.com/fabio1373">fabio1373</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
