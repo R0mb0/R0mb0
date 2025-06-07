@@ -111,6 +111,13 @@
         <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Francesco-Rossi">
+            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
+        </a>
+        <br />
+        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
         </a>
@@ -123,13 +130,6 @@
         </a>
         <br />
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/Francesco-Rossi">
-            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
-        </a>
-        <br />
-        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
     <td align="center">
         <a href="https://github.com/supmar23">
