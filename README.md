@@ -169,6 +169,13 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Pingalu">
+            <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
+        </a>
+        <br />
+        <a href="https://github.com/Pingalu">Pingalu</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
         </a>
@@ -196,6 +203,8 @@
         <br />
         <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Raixander">
             <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
