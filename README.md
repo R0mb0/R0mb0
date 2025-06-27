@@ -139,12 +139,21 @@
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
     <td align="center">
+        <a href="https://github.com/iisboy">
+            <img src="https://avatars2.githubusercontent.com/u/75134858" width="100px;" alt="iisboy"/>
+        </a>
+        <br />
+        <a href="https://github.com/iisboy">iisboy</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ROMFIR61">
             <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
         </a>
         <br />
         <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -152,8 +161,6 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
@@ -169,13 +176,6 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Pingalu">
-            <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
-        </a>
-        <br />
-        <a href="https://github.com/Pingalu">Pingalu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
         </a>
@@ -183,18 +183,18 @@
         <a href="https://github.com/fabio1373">fabio1373</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Pingalu">
+            <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
+        </a>
+        <br />
+        <a href="https://github.com/Pingalu">Pingalu</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
         <br />
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/K-Yros6">
-            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
-        </a>
-        <br />
-        <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
         <a href="https://github.com/AriannaCinciarini">
@@ -206,11 +206,32 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/K-Yros6">
+            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
+        </a>
+        <br />
+        <a href="https://github.com/K-Yros6">Luca</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/Raixander">
             <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
         <br />
         <a href="https://github.com/Raixander">Raixander</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/MarkPalaz">
+            <img src="https://avatars2.githubusercontent.com/u/121566340" width="100px;" alt="MarkPalaz"/>
+        </a>
+        <br />
+        <a href="https://github.com/MarkPalaz">MarkPalaz</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Eclipsenet1982">
+            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
+        </a>
+        <br />
+        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
   </tr>
 </table>
