@@ -1,10 +1,13 @@
- <img height="30%" width="30%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/Github.gif" align="right"/>
+<!-- height="20%" -->
+ <img width="30%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/Github.gif" align="right"/>
        <h1> Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"/>, I'm R0mb0 </h1>
         And yes, I don't use GitHub properly! <br>
         Why? <br>
-        <div> Because I like to test its limits! <img  height="1.8%" width="1.8%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/fire.gif"/> </div>
+        <!-- height="1.8%" -->
+        <div> Because I like to test its limits! <img width="1.8%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/fire.gif"/> </div>
         <h2>Who I am</h2>
-         <div> I'm an informatics university student from Italy who loves everything related to open-source and the cyberpunk culture <img  height="1.5%" width="1.5%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/sunglasses-emoji.gif"/> </div>
+        <!-- height="1.5%" -->
+         <div> I'm an informatics university student from Italy who loves everything related to open-source and the cyberpunk culture <img width="1.5%" src="https://github.com/R0mb0/R0mb0/blob/main/ReadmeImgs/sunglasses-emoji.gif"/> </div>
 
 ## Take a smile! 😄
 
