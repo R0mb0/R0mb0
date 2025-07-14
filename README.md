@@ -179,13 +179,6 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fabio1373">
-            <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
-        </a>
-        <br />
-        <a href="https://github.com/fabio1373">fabio1373</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pingalu">
             <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
         </a>
@@ -193,18 +186,25 @@
         <a href="https://github.com/Pingalu">Pingalu</a>
     </td>
     <td align="center">
+        <a href="https://github.com/fabio1373">
+            <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
+        </a>
+        <br />
+        <a href="https://github.com/fabio1373">fabio1373</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Eclipsenet1982">
+            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
+        </a>
+        <br />
+        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
         <br />
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AriannaCinciarini">
-            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
-        </a>
-        <br />
-        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
   </tr>
   <tr>
@@ -230,11 +230,11 @@
         <a href="https://github.com/MarkPalaz">MarkPalaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Eclipsenet1982">
-            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
         </a>
         <br />
-        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
   </tr>
 </table>
