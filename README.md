@@ -121,18 +121,18 @@
         <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
     <td align="center">
-        <a href="https://github.com/desabuh">
-            <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
-        </a>
-        <br />
-        <a href="https://github.com/desabuh">Stefano Guidi</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/0d1n92">
             <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
         </a>
         <br />
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/desabuh">
+            <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
+        </a>
+        <br />
+        <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
     <td align="center">
         <a href="https://github.com/supmar23">
