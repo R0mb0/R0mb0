@@ -114,13 +114,6 @@
         <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
-        <a href="https://github.com/yumiaura">
-            <img src="https://avatars2.githubusercontent.com/u/235065808" width="100px;" alt="yumiaura"/>
-        </a>
-        <br />
-        <a href="https://github.com/yumiaura">Yumi Cabrera</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Francesco-Rossi">
             <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
         </a>
@@ -155,8 +148,6 @@
         <br />
         <a href="https://github.com/iisboy">iisboy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -164,6 +155,8 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/ROMFIR61">
             <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
@@ -186,13 +179,6 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
-        <a href="https://github.com/marcosuca0-oss">
-            <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
-        </a>
-        <br />
-        <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
         </a>
@@ -206,6 +192,20 @@
         <br />
         <a href="https://github.com/Pingalu">Pingalu</a>
     </td>
+    <td align="center">
+        <a href="https://github.com/marcosuca0-oss">
+            <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
+        </a>
+        <br />
+        <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Eclipsenet1982">
+            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
+        </a>
+        <br />
+        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -216,18 +216,11 @@
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Eclipsenet1982">
-            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
+        <a href="https://github.com/MarkPalaz">
+            <img src="https://avatars2.githubusercontent.com/u/121566340" width="100px;" alt="MarkPalaz"/>
         </a>
         <br />
-        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AriannaCinciarini">
-            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
-        </a>
-        <br />
-        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
+        <a href="https://github.com/MarkPalaz">MarkPalaz</a>
     </td>
     <td align="center">
         <a href="https://github.com/K-Yros6">
@@ -237,11 +230,11 @@
         <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
-        <a href="https://github.com/MarkPalaz">
-            <img src="https://avatars2.githubusercontent.com/u/121566340" width="100px;" alt="MarkPalaz"/>
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
         </a>
         <br />
-        <a href="https://github.com/MarkPalaz">MarkPalaz</a>
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
     <td align="center">
         <a href="https://github.com/Raixander">
