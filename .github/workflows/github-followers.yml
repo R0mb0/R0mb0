@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     name: A job to display github followers in your profile
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
 
       - name: use github-follower-action to update README.md
         id: github-follower
