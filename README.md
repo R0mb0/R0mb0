@@ -144,18 +144,18 @@
         <a href="https://github.com/abdrysdale">Alex Drysdale</a>
     </td>
     <td align="center">
-        <a href="https://github.com/0d1n92">
-            <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
-        </a>
-        <br />
-        <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Francesco-Rossi">
             <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
         </a>
         <br />
         <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/0d1n92">
+            <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
+        </a>
+        <br />
+        <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
     <td align="center">
         <a href="https://github.com/desabuh">
@@ -202,13 +202,6 @@
         <a href="https://github.com/Pingalu">Pingalu</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ROMFIR61">
-            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
-        </a>
-        <br />
-        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/micdini">
             <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
         </a>
@@ -222,14 +215,21 @@
         <br />
         <a href="https://github.com/fabio1373">fabio1373</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/marcosuca0-oss">
             <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
         </a>
         <br />
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/r0s4dip3sar0">
+            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
+        </a>
+        <br />
+        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
     </td>
     <td align="center">
         <a href="https://github.com/Eclipsenet1982">
@@ -239,11 +239,11 @@
         <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
     <td align="center">
-        <a href="https://github.com/r0s4dip3sar0">
-            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
+        <a href="https://github.com/Raixander">
+            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
         <br />
-        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
+        <a href="https://github.com/Raixander">Raixander</a>
     </td>
     <td align="center">
         <a href="https://github.com/AriannaCinciarini">
@@ -267,11 +267,11 @@
         <a href="https://github.com/MarkPalaz">MarkPalaz</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Raixander">
-            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
+        <a href="https://github.com/ROMFIR61">
+            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
         </a>
         <br />
-        <a href="https://github.com/Raixander">Raixander</a>
+        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
   </tr>
 </table>
