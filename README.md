@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-kannan.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/R0mb0)
+[![trophy](https://github-profile-trophy-iota-topaz.vercel.app/?username=r0mb0&theme=onedark)](https://github.com/R0mb0)
 
 </div>
 
