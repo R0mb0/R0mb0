@@ -24,15 +24,15 @@
     
 <div align="center">
      <a href="https://github.com/R0mb0">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&theme=onedark&layout=compact&hide=jupyter%20notebook&card_width=230em" />
+        <img height="180em" src="https://github-readme-stats-nu-ten-hm89qymeqp.vercel.app/api?username=R0mb0&theme=onedark&show_icons=true" />
+       <img height="180em" src="https://github-readme-stats-nu-ten-hm89qymeqp.vercel.app/api/top-langs/?username=R0mb0&theme=onedark&layout=compact&hide=logos&card_width=230em" />
     </a>
 </div>
 
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R0mb0&langs_count=14"/>
+  <img src="https://github-readme-stats-nu-ten-hm89qymeqp.vercel.app/api/top-langs/?username=R0mb0&langs_count=14&hide=logos"/>
   
 </div>
 
