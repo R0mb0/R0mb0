@@ -137,13 +137,6 @@
         <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
-        <a href="https://github.com/offsecgit1">
-            <img src="https://avatars2.githubusercontent.com/u/261459176" width="100px;" alt="offsecgit1"/>
-        </a>
-        <br />
-        <a href="https://github.com/offsecgit1">offsecgit1</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/abdrysdale">
             <img src="https://avatars2.githubusercontent.com/u/13297963" width="100px;" alt="abdrysdale"/>
         </a>
@@ -171,8 +164,6 @@
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
@@ -180,6 +171,8 @@
         <br />
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
@@ -222,8 +215,6 @@
         <br />
         <a href="https://github.com/fabio1373">fabio1373</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/marcosuca0-oss">
             <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
@@ -231,6 +222,8 @@
         <br />
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
@@ -272,6 +265,13 @@
         </a>
         <br />
         <a href="https://github.com/MarkPalaz">MarkPalaz</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ROMFIR61">
+            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
+        </a>
+        <br />
+        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
   </tr>
 </table>
