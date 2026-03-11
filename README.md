@@ -137,13 +137,6 @@
         <a href="https://github.com/valentimarco">valentimarco</a>
     </td>
     <td align="center">
-        <a href="https://github.com/abdrysdale">
-            <img src="https://avatars2.githubusercontent.com/u/13297963" width="100px;" alt="abdrysdale"/>
-        </a>
-        <br />
-        <a href="https://github.com/abdrysdale">Alex Drysdale</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/stellarlighthub">
             <img src="https://avatars2.githubusercontent.com/u/198982832" width="100px;" alt="stellarlighthub"/>
         </a>
@@ -151,11 +144,11 @@
         <a href="https://github.com/stellarlighthub">🤝 Join My Growing Remote Team! 🚀</a>
     </td>
     <td align="center">
-        <a href="https://github.com/0d1n92">
-            <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
+        <a href="https://github.com/abdrysdale">
+            <img src="https://avatars2.githubusercontent.com/u/13297963" width="100px;" alt="abdrysdale"/>
         </a>
         <br />
-        <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
+        <a href="https://github.com/abdrysdale">Alex Drysdale</a>
     </td>
     <td align="center">
         <a href="https://github.com/Francesco-Rossi">
@@ -163,6 +156,13 @@
         </a>
         <br />
         <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/0d1n92">
+            <img src="https://avatars2.githubusercontent.com/u/24846081" width="100px;" alt="0d1n92"/>
+        </a>
+        <br />
+        <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
     <td align="center">
         <a href="https://github.com/desabuh">
@@ -246,13 +246,6 @@
         <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
     <td align="center">
-        <a href="https://github.com/K-Yros6">
-            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
-        </a>
-        <br />
-        <a href="https://github.com/K-Yros6">Luca</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Raixander">
             <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
@@ -260,11 +253,18 @@
         <a href="https://github.com/Raixander">Raixander</a>
     </td>
     <td align="center">
-        <a href="https://github.com/ROMFIR61">
-            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
         </a>
         <br />
-        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/K-Yros6">
+            <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
+        </a>
+        <br />
+        <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
         <a href="https://github.com/MarkPalaz">
