@@ -181,11 +181,11 @@
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
     <td align="center">
-        <a href="https://github.com/tommyw3b98">
-            <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
+        <a href="https://github.com/LucaCava99">
+            <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
         </a>
         <br />
-        <a href="https://github.com/tommyw3b98">tommyw3b98</a>
+        <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
     <td align="center">
         <a href="https://github.com/iisboy">
@@ -195,18 +195,18 @@
         <a href="https://github.com/iisboy">iisboy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/LucaCava99">
-            <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
-        </a>
-        <br />
-        <a href="https://github.com/LucaCava99">LucaCava99</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pingalu">
             <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
         </a>
         <br />
         <a href="https://github.com/Pingalu">Pingalu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/tommyw3b98">
+            <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
+        </a>
+        <br />
+        <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
     <td align="center">
         <a href="https://github.com/micdini">
