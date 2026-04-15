@@ -130,6 +130,13 @@
         <a href="https://github.com/emilycodestar">Emily 💞</a>
     </td>
     <td align="center">
+        <a href="https://github.com/helallao">
+            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
+        </a>
+        <br />
+        <a href="https://github.com/helallao">Ali Yaşar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/valentimarco">
             <img src="https://avatars2.githubusercontent.com/u/26926690" width="100px;" alt="valentimarco"/>
         </a>
@@ -164,6 +171,8 @@
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
@@ -171,8 +180,6 @@
         <br />
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -202,12 +209,21 @@
         <a href="https://github.com/tommyw3b98">tommyw3b98</a>
     </td>
     <td align="center">
+        <a href="https://github.com/bigimichele-beep">
+            <img src="https://avatars2.githubusercontent.com/u/276227184" width="100px;" alt="bigimichele-beep"/>
+        </a>
+        <br />
+        <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/micdini">
             <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
         </a>
         <br />
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
@@ -222,15 +238,6 @@
         <br />
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-        <a href="https://github.com/r0s4dip3sar0">
-            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
-        </a>
-        <br />
-        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
-    </td>
     <td align="center">
         <a href="https://github.com/Eclipsenet1982">
             <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
@@ -239,11 +246,11 @@
         <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Raixander">
-            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
+        <a href="https://github.com/r0s4dip3sar0">
+            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
         <br />
-        <a href="https://github.com/Raixander">Raixander</a>
+        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
     </td>
     <td align="center">
         <a href="https://github.com/AriannaCinciarini">
@@ -265,13 +272,6 @@
         </a>
         <br />
         <a href="https://github.com/MarkPalaz">MarkPalaz</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/ROMFIR61">
-            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
-        </a>
-        <br />
-        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
   </tr>
 </table>
