@@ -137,6 +137,13 @@
         <a href="https://github.com/helallao">Ali Yaşar</a>
     </td>
     <td align="center">
+        <a href="https://github.com/seckinyasar">
+            <img src="https://avatars2.githubusercontent.com/u/86570205" width="100px;" alt="seckinyasar"/>
+        </a>
+        <br />
+        <a href="https://github.com/seckinyasar">Seckin Yasar</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/valentimarco">
             <img src="https://avatars2.githubusercontent.com/u/26926690" width="100px;" alt="valentimarco"/>
         </a>
@@ -164,6 +171,8 @@
         <br />
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
@@ -171,8 +180,6 @@
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
@@ -215,6 +222,8 @@
         <br />
         <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/micdini">
             <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
@@ -222,8 +231,6 @@
         <br />
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
@@ -265,13 +272,6 @@
         </a>
         <br />
         <a href="https://github.com/K-Yros6">Luca</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MarkPalaz">
-            <img src="https://avatars2.githubusercontent.com/u/121566340" width="100px;" alt="MarkPalaz"/>
-        </a>
-        <br />
-        <a href="https://github.com/MarkPalaz">MarkPalaz</a>
     </td>
   </tr>
 </table>
