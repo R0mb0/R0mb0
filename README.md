@@ -130,13 +130,6 @@
         <a href="https://github.com/emilycodestar">Emily 💞</a>
     </td>
     <td align="center">
-        <a href="https://github.com/helallao">
-            <img src="https://avatars2.githubusercontent.com/u/78656003" width="100px;" alt="helallao"/>
-        </a>
-        <br />
-        <a href="https://github.com/helallao">Ali Yaşar</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/valentimarco">
             <img src="https://avatars2.githubusercontent.com/u/26926690" width="100px;" alt="valentimarco"/>
         </a>
@@ -171,8 +164,6 @@
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
@@ -180,6 +171,8 @@
         <br />
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
@@ -222,8 +215,6 @@
         <br />
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/marcosuca0-oss">
             <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
@@ -231,6 +222,8 @@
         <br />
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/fabio1373">
             <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
@@ -272,6 +265,13 @@
         </a>
         <br />
         <a href="https://github.com/ROMFIR61">ROMFIR61</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/AriannaCinciarini">
+            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
+        </a>
+        <br />
+        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
   </tr>
 </table>
