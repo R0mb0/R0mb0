@@ -188,18 +188,18 @@
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
     <td align="center">
-        <a href="https://github.com/iisboy">
-            <img src="https://avatars2.githubusercontent.com/u/75134858" width="100px;" alt="iisboy"/>
-        </a>
-        <br />
-        <a href="https://github.com/iisboy">iisboy</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Pingalu">
             <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
         </a>
         <br />
         <a href="https://github.com/Pingalu">Pingalu</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/iisboy">
+            <img src="https://avatars2.githubusercontent.com/u/75134858" width="100px;" alt="iisboy"/>
+        </a>
+        <br />
+        <a href="https://github.com/iisboy">iisboy</a>
     </td>
     <td align="center">
         <a href="https://github.com/tommyw3b98">
@@ -232,13 +232,6 @@
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
     <td align="center">
-        <a href="https://github.com/fabio1373">
-            <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
-        </a>
-        <br />
-        <a href="https://github.com/fabio1373">fabio1373</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Eclipsenet1982">
             <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
         </a>
@@ -260,6 +253,13 @@
         <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
     </td>
     <td align="center">
+        <a href="https://github.com/aldinia">
+            <img src="https://avatars2.githubusercontent.com/u/25725037" width="100px;" alt="aldinia"/>
+        </a>
+        <br />
+        <a href="https://github.com/aldinia">Alessandro Aldini</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/K-Yros6">
             <img src="https://avatars2.githubusercontent.com/u/134057691" width="100px;" alt="K-Yros6"/>
         </a>
@@ -267,11 +267,11 @@
         <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
-        <a href="https://github.com/aldinia">
-            <img src="https://avatars2.githubusercontent.com/u/25725037" width="100px;" alt="aldinia"/>
+        <a href="https://github.com/Raixander">
+            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
         <br />
-        <a href="https://github.com/aldinia">Alessandro Aldini</a>
+        <a href="https://github.com/Raixander">Raixander</a>
     </td>
   </tr>
 </table>
