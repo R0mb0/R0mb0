@@ -158,27 +158,27 @@
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Francesco-Rossi">
-            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
-        </a>
-        <br />
-        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
         </a>
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
         </a>
         <br />
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/Francesco-Rossi">
+            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
+        </a>
+        <br />
+        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
     <td align="center">
         <a href="https://github.com/LucaCava99">
@@ -232,13 +232,6 @@
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Eclipsenet1982">
-            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
-        </a>
-        <br />
-        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
         </a>
@@ -246,18 +239,25 @@
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
     </td>
     <td align="center">
-        <a href="https://github.com/AriannaCinciarini">
-            <img src="https://avatars2.githubusercontent.com/u/139390858" width="100px;" alt="AriannaCinciarini"/>
+        <a href="https://github.com/Eclipsenet1982">
+            <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
         </a>
         <br />
-        <a href="https://github.com/AriannaCinciarini">Arianna Cinciarini</a>
+        <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
     <td align="center">
-        <a href="https://github.com/aldinia">
-            <img src="https://avatars2.githubusercontent.com/u/25725037" width="100px;" alt="aldinia"/>
+        <a href="https://github.com/Raixander">
+            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
         </a>
         <br />
-        <a href="https://github.com/aldinia">Alessandro Aldini</a>
+        <a href="https://github.com/Raixander">Raixander</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/ROMFIR61">
+            <img src="https://avatars2.githubusercontent.com/u/177608184" width="100px;" alt="ROMFIR61"/>
+        </a>
+        <br />
+        <a href="https://github.com/ROMFIR61">ROMFIR61</a>
     </td>
     <td align="center">
         <a href="https://github.com/K-Yros6">
@@ -267,11 +267,11 @@
         <a href="https://github.com/K-Yros6">Luca</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Raixander">
-            <img src="https://avatars2.githubusercontent.com/u/96870516" width="100px;" alt="Raixander"/>
+        <a href="https://github.com/aldinia">
+            <img src="https://avatars2.githubusercontent.com/u/25725037" width="100px;" alt="aldinia"/>
         </a>
         <br />
-        <a href="https://github.com/Raixander">Raixander</a>
+        <a href="https://github.com/aldinia">Alessandro Aldini</a>
     </td>
   </tr>
 </table>
