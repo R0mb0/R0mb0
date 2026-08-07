@@ -174,6 +174,13 @@
   </tr>
   <tr>
     <td align="center">
+        <a href="https://github.com/bigimichele-beep">
+            <img src="https://avatars2.githubusercontent.com/u/276227184" width="100px;" alt="bigimichele-beep"/>
+        </a>
+        <br />
+        <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/LucaCava99">
             <img src="https://avatars2.githubusercontent.com/u/119940735" width="100px;" alt="LucaCava99"/>
         </a>
@@ -200,13 +207,6 @@
         </a>
         <br />
         <a href="https://github.com/Pingalu">Pingalu</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bigimichele-beep">
-            <img src="https://avatars2.githubusercontent.com/u/276227184" width="100px;" alt="bigimichele-beep"/>
-        </a>
-        <br />
-        <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
     </td>
     <td align="center">
         <a href="https://github.com/micdini">
