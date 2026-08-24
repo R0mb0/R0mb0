@@ -151,6 +151,13 @@
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
     <td align="center">
+        <a href="https://github.com/sir-volt">
+            <img src="https://avatars2.githubusercontent.com/u/76060504" width="100px;" alt="sir-volt"/>
+        </a>
+        <br />
+        <a href="https://github.com/sir-volt">Andrea Bianchi</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
         </a>
@@ -164,6 +171,8 @@
         <br />
         <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/Francesco-Rossi">
             <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
@@ -171,8 +180,6 @@
         <br />
         <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
@@ -215,6 +222,8 @@
         <br />
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/marcosuca0-oss">
             <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
@@ -222,8 +231,6 @@
         <br />
         <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/r0s4dip3sar0">
             <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
@@ -265,13 +272,6 @@
         </a>
         <br />
         <a href="https://github.com/aldinia">Alessandro Aldini</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/fabio1373">
-            <img src="https://avatars2.githubusercontent.com/u/213620877" width="100px;" alt="fabio1373"/>
-        </a>
-        <br />
-        <a href="https://github.com/fabio1373">fabio1373</a>
     </td>
   </tr>
 </table>
