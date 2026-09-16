@@ -202,6 +202,13 @@
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
     </td>
     <td align="center">
+        <a href="https://github.com/Matteo-293473">
+            <img src="https://avatars2.githubusercontent.com/u/63479971" width="100px;" alt="Matteo-293473"/>
+        </a>
+        <br />
+        <a href="https://github.com/Matteo-293473">Matteo Pulcinelli</a>
+    </td>
+    <td align="center">
         <a href="https://github.com/tommyw3b98">
             <img src="https://avatars2.githubusercontent.com/u/55363224" width="100px;" alt="tommyw3b98"/>
         </a>
@@ -215,6 +222,8 @@
         <br />
         <a href="https://github.com/LucaCava99">LucaCava99</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
         <a href="https://github.com/iisboy">
             <img src="https://avatars2.githubusercontent.com/u/75134858" width="100px;" alt="iisboy"/>
@@ -222,8 +231,6 @@
         <br />
         <a href="https://github.com/iisboy">iisboy</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
         <a href="https://github.com/Pingalu">
             <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
@@ -258,13 +265,6 @@
         </a>
         <br />
         <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/MarkPalaz">
-            <img src="https://avatars2.githubusercontent.com/u/121566340" width="100px;" alt="MarkPalaz"/>
-        </a>
-        <br />
-        <a href="https://github.com/MarkPalaz">MarkPalaz</a>
     </td>
     <td align="center">
         <a href="https://github.com/Raixander">
