@@ -165,20 +165,20 @@
         <a href="https://github.com/0d1n92">Enrico Rombaldoni</a>
     </td>
     <td align="center">
-        <a href="https://github.com/sir-volt">
-            <img src="https://avatars2.githubusercontent.com/u/76060504" width="100px;" alt="sir-volt"/>
-        </a>
-        <br />
-        <a href="https://github.com/sir-volt">Andrea Bianchi</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
         <a href="https://github.com/desabuh">
             <img src="https://avatars2.githubusercontent.com/u/28289232" width="100px;" alt="desabuh"/>
         </a>
         <br />
         <a href="https://github.com/desabuh">Stefano Guidi</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+        <a href="https://github.com/sir-volt">
+            <img src="https://avatars2.githubusercontent.com/u/76060504" width="100px;" alt="sir-volt"/>
+        </a>
+        <br />
+        <a href="https://github.com/sir-volt">Andrea Bianchi</a>
     </td>
     <td align="center">
         <a href="https://github.com/bigimichele-beep">
