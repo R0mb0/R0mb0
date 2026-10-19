@@ -246,13 +246,6 @@
         <a href="https://github.com/micdini">Michele Dini</a>
     </td>
     <td align="center">
-        <a href="https://github.com/marcosuca0-oss">
-            <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
-        </a>
-        <br />
-        <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/Eclipsenet1982">
             <img src="https://avatars2.githubusercontent.com/u/88474634" width="100px;" alt="Eclipsenet1982"/>
         </a>
@@ -272,6 +265,13 @@
         </a>
         <br />
         <a href="https://github.com/Raixander">Raixander</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/marcosuca0-oss">
+            <img src="https://avatars2.githubusercontent.com/u/237635687" width="100px;" alt="marcosuca0-oss"/>
+        </a>
+        <br />
+        <a href="https://github.com/marcosuca0-oss">marcosuca0-oss</a>
     </td>
   </tr>
 </table>
