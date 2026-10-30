@@ -188,18 +188,18 @@
         <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Francesco-Rossi">
-            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
-        </a>
-        <br />
-        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/supmar23">
             <img src="https://avatars2.githubusercontent.com/u/58643017" width="100px;" alt="supmar23"/>
         </a>
         <br />
         <a href="https://github.com/supmar23">Mario Ciccioni</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Francesco-Rossi">
+            <img src="https://avatars2.githubusercontent.com/u/90980656" width="100px;" alt="Francesco-Rossi"/>
+        </a>
+        <br />
+        <a href="https://github.com/Francesco-Rossi">Francesco Pio Rossi</a>
     </td>
     <td align="center">
         <a href="https://github.com/Matteo-293473">
