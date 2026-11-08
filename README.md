@@ -174,18 +174,18 @@
   </tr>
   <tr>
     <td align="center">
-        <a href="https://github.com/sir-volt">
-            <img src="https://avatars2.githubusercontent.com/u/76060504" width="100px;" alt="sir-volt"/>
-        </a>
-        <br />
-        <a href="https://github.com/sir-volt">Andrea Bianchi</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/bigimichele-beep">
             <img src="https://avatars2.githubusercontent.com/u/276227184" width="100px;" alt="bigimichele-beep"/>
         </a>
         <br />
         <a href="https://github.com/bigimichele-beep">bigimichele-beep</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/sir-volt">
+            <img src="https://avatars2.githubusercontent.com/u/76060504" width="100px;" alt="sir-volt"/>
+        </a>
+        <br />
+        <a href="https://github.com/sir-volt">Andrea Bianchi</a>
     </td>
     <td align="center">
         <a href="https://github.com/supmar23">
