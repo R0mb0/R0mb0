@@ -232,18 +232,18 @@
         <a href="https://github.com/iisboy">iisboy</a>
     </td>
     <td align="center">
-        <a href="https://github.com/Pingalu">
-            <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
-        </a>
-        <br />
-        <a href="https://github.com/Pingalu">Pingalu</a>
-    </td>
-    <td align="center">
         <a href="https://github.com/micdini">
             <img src="https://avatars2.githubusercontent.com/u/34679387" width="100px;" alt="micdini"/>
         </a>
         <br />
         <a href="https://github.com/micdini">Michele Dini</a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/r0s4dip3sar0">
+            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
+        </a>
+        <br />
+        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
     </td>
     <td align="center">
         <a href="https://github.com/Eclipsenet1982">
@@ -253,11 +253,11 @@
         <a href="https://github.com/Eclipsenet1982">Rosario Zefiro</a>
     </td>
     <td align="center">
-        <a href="https://github.com/r0s4dip3sar0">
-            <img src="https://avatars2.githubusercontent.com/u/130976709" width="100px;" alt="r0s4dip3sar0"/>
+        <a href="https://github.com/Pingalu">
+            <img src="https://avatars2.githubusercontent.com/u/215420727" width="100px;" alt="Pingalu"/>
         </a>
         <br />
-        <a href="https://github.com/r0s4dip3sar0">Alice Balestieri</a>
+        <a href="https://github.com/Pingalu">Pingalu</a>
     </td>
     <td align="center">
         <a href="https://github.com/Raixander">
